@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158124434392",
+    "project_id": "dokan-1b516",
+    "storage_bucket": "dokan-1b516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158124434392:android:7035ef1ab9b404ea90c8ad",
+        "android_client_info": {
+          "package_name": "mohammed.ziad.hassan.project_dokan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158124434392-i1o1idltb993stcfdd2gv3em7cj1cq4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWmTl0k_GB-hqH74_osAwph0-XC1MM7jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158124434392-i1o1idltb993stcfdd2gv3em7cj1cq4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
